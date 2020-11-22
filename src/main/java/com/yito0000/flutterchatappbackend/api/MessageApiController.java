@@ -1,4 +1,4 @@
-package com.yito0000.flutterchatappbackend.api.controller;
+package com.yito0000.flutterchatappbackend.api;
 
 import com.yito0000.flutterchatappbackend.api.model.MessageJson;
 import org.springframework.web.bind.annotation.GetMapping;

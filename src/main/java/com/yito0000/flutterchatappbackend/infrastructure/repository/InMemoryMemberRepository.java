@@ -1,4 +1,4 @@
-package com.yito0000.flutterchatappbackend.repository;
+package com.yito0000.flutterchatappbackend.infrastructure.repository;
 
 import com.yito0000.flutterchatappbackend.domain.ChannelId;
 import com.yito0000.flutterchatappbackend.domain.MemberEntity;

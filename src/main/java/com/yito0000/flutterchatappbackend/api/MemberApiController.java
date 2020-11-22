@@ -1,4 +1,4 @@
-package com.yito0000.flutterchatappbackend.api.controller;
+package com.yito0000.flutterchatappbackend.api;
 
 import com.yito0000.flutterchatappbackend.api.model.MembersAndSentMessagesJson;
 import com.yito0000.flutterchatappbackend.api.model.converter.MembersAndSentMessagesJsonConverter;
